@@ -357,7 +357,7 @@ transform:rotateY(0deg) translateY(0px);
 }
 #project4{
     margin-left: 120px;
-background-image: url(images/projects/Project4.png);
+background-image: url(./images/projects/Project4.png);
 }
 
 .project-card::after{
