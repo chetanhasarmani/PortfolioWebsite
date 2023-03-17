@@ -336,7 +336,7 @@ transform:rotateY(0deg) translateY(0px);
 
     /* setting card height */
     height: 550px;
-    background-image: url(/images/projects/Project1.png);
+    background-image: url(./images/projects/Project1.png);
 
     /* because img does not fit in given size so we use background-size:cover  */
     background-size: cover;
